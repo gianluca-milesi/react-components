@@ -4,7 +4,9 @@ function Main() {
     return (
         <>
             <div className="container">
-                <Card />
+                <div className="row">
+                    <Card />
+                </div>
             </div>
         </>
     )
