@@ -1,7 +1,9 @@
+import Header from "./layouts/Header/Header.jsx"
+
 function App() {
   return (
     <>
-      <div>ciao</div>
+      <Header />
     </>
   )
 }
