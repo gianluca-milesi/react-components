@@ -1,0 +1,13 @@
+footer {
+    padding: 40px 400px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(48, 47, 48);
+}
+
+.info{
+    color: white;
+    text-align: center;
+}
